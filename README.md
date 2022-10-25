@@ -1,1 +1,2 @@
 # Mochila-JS
+git init
